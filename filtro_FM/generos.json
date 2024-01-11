@@ -1,0 +1,16 @@
+{
+  "generos": [
+    {
+      "id": "/bin/python3 /home/user/Escritorio/filtro_FM/gestor_generos.py",
+      "nombre": ""
+    },
+    {
+      "id": "1",
+      "nombre": "accion"
+    },
+    {
+      "id": "2",
+      "nombre": "romantico"
+    }
+  ]
+}
